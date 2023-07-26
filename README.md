@@ -4,7 +4,7 @@ This repository contains the implementation of the BUS-UNet++ ensemble, a combin
 
 ## Dataset
 
-The dataset used for this study is the LIDC-IDRI dataset. Due to data access restrictions, we cannot provide the raw data. However, you can access the dataset at <YOUR_DATASET_LINK>.
+The dataset used for this study is the LIDC-IDRI dataset. Due to data access restrictions, we cannot provide the raw data. However, you can access the dataset at [https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254].
 
 To preprocess the dataset and obtain the Region of Interest (RoI) containing nodule masks and images, you can check the `dataset.py` file.
 
